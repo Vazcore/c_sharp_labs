@@ -1,0 +1,7 @@
+B:\code\BGU\c#\c_sharp_labs\lab6\lab6\lab6\bin\Debug\lab6.exe
+B:\code\BGU\c#\c_sharp_labs\lab6\lab6\lab6\bin\Debug\lab6.pdb
+B:\code\BGU\c#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+B:\code\BGU\c#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+B:\code\BGU\c#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\lab6.csproj.GenerateResource.Cache
+B:\code\BGU\c#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\lab6.exe
+B:\code\BGU\c#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\lab6.pdb
