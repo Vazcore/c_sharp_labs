@@ -1,0 +1,5 @@
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab7_ind\Lab7_ind\bin\Debug\Lab7_ind.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab7_ind\Lab7_ind\bin\Debug\Lab7_ind.pdb
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab7_ind\Lab7_ind\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab7_ind\Lab7_ind\obj\x86\Debug\Lab7_ind.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab7_ind\Lab7_ind\obj\x86\Debug\Lab7_ind.pdb

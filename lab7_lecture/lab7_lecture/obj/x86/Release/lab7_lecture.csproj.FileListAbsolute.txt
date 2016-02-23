@@ -1,0 +1,10 @@
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\bin\Release\lab7_lecture.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\bin\Release\lab7_lecture.pdb
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Release\ResolveAssemblyReference.cache
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Release\lab7_lecture.Form1.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Release\lab7_lecture.Form2.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Release\lab7_lecture.Properties.Resources.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Release\GenerateResource.read.1.tlog
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Release\GenerateResource.write.1.tlog
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Release\lab7_lecture.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Release\lab7_lecture.pdb

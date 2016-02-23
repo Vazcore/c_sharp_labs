@@ -10,3 +10,11 @@ C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\obj\x86\Debug\lab7_l
 C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\obj\x86\Debug\lab7_lecture.pdb
 D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Debug\lab7_lecture.exe
 D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Debug\lab7_lecture.pdb
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\bin\Debug\lab7_lecture.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\bin\Debug\lab7_lecture.pdb
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Debug\lab7_lecture.Form1.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Debug\lab7_lecture.Form2.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Debug\lab7_lecture.Properties.Resources.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Debug\GenerateResource.write.1.tlog
