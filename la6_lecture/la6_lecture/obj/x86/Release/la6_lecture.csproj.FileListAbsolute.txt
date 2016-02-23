@@ -1,0 +1,10 @@
+C:\Users\USER\AppData\Local\Temporary Projects\la6_lecture\bin\Release\la6_lecture.exe
+C:\Users\USER\AppData\Local\Temporary Projects\la6_lecture\bin\Release\la6_lecture.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\la6_lecture\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\USER\AppData\Local\Temporary Projects\la6_lecture\obj\x86\Release\la6_lecture.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\la6_lecture\obj\x86\Release\la6_lecture.Form2.resources
+C:\Users\USER\AppData\Local\Temporary Projects\la6_lecture\obj\x86\Release\la6_lecture.Properties.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\la6_lecture\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\USER\AppData\Local\Temporary Projects\la6_lecture\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\USER\AppData\Local\Temporary Projects\la6_lecture\obj\x86\Release\la6_lecture.exe
+C:\Users\USER\AppData\Local\Temporary Projects\la6_lecture\obj\x86\Release\la6_lecture.pdb

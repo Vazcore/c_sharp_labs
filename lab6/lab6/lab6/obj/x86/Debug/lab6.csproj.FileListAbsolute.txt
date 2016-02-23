@@ -5,3 +5,12 @@ B:\code\BGU\c#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\WindowsFormsApplication
 B:\code\BGU\c#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\lab6.csproj.GenerateResource.Cache
 B:\code\BGU\c#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\lab6.exe
 B:\code\BGU\c#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\lab6.pdb
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab6\lab6\lab6\bin\Debug\lab6.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab6\lab6\lab6\bin\Debug\lab6.pdb
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\lab6.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab6\lab6\lab6\obj\x86\Debug\lab6.pdb

@@ -1,0 +1,12 @@
+C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\obj\x86\Debug\lab7_lecture.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\obj\x86\Debug\lab7_lecture.Form2.resources
+C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\obj\x86\Debug\lab7_lecture.Properties.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\bin\Debug\lab7_lecture.exe
+C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\bin\Debug\lab7_lecture.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\obj\x86\Debug\lab7_lecture.exe
+C:\Users\USER\AppData\Local\Temporary Projects\lab7_lecture\obj\x86\Debug\lab7_lecture.pdb
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Debug\lab7_lecture.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\lab7_lecture\lab7_lecture\obj\x86\Debug\lab7_lecture.pdb
