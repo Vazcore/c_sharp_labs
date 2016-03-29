@@ -1,0 +1,9 @@
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab9\Lab9\bin\Debug\Lab9.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab9\Lab9\bin\Debug\Lab9.pdb
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab9\Lab9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab9\Lab9\obj\x86\Debug\Lab9.Form1.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab9\Lab9\obj\x86\Debug\Lab9.Properties.Resources.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab9\Lab9\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab9\Lab9\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab9\Lab9\obj\x86\Debug\Lab9.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab9\Lab9\obj\x86\Debug\Lab9.pdb

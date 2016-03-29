@@ -1,0 +1,11 @@
+C:\Users\USER\AppData\Local\Temporary Projects\Lab12\bin\Debug\Lab12.exe
+C:\Users\USER\AppData\Local\Temporary Projects\Lab12\bin\Debug\Lab12.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\Lab12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\AppData\Local\Temporary Projects\Lab12\obj\x86\Debug\Lab12.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\Lab12\obj\x86\Debug\Lab12.Properties.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\Lab12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\AppData\Local\Temporary Projects\Lab12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\AppData\Local\Temporary Projects\Lab12\obj\x86\Debug\Lab12.exe
+C:\Users\USER\AppData\Local\Temporary Projects\Lab12\obj\x86\Debug\Lab12.pdb
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab12\Lab12\obj\x86\Debug\Lab12.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab12\Lab12\obj\x86\Debug\Lab12.pdb

@@ -1,0 +1,9 @@
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab8Ind\Lab8Ind\bin\Debug\Lab8Ind.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab8Ind\Lab8Ind\bin\Debug\Lab8Ind.pdb
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab8Ind\Lab8Ind\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab8Ind\Lab8Ind\obj\x86\Debug\Lab8Ind.Form1.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab8Ind\Lab8Ind\obj\x86\Debug\Lab8Ind.Properties.Resources.resources
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab8Ind\Lab8Ind\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab8Ind\Lab8Ind\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab8Ind\Lab8Ind\obj\x86\Debug\Lab8Ind.exe
+D:\15po15\Gabrusev\C#\c_sharp_labs\Lab8Ind\Lab8Ind\obj\x86\Debug\Lab8Ind.pdb
