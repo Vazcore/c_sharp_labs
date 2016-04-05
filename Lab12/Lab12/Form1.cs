@@ -6,11 +6,13 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.IO;
 
 namespace Lab12
 {
     public partial class Form1 : Form
     {
+        public string g_x, g_y; 
         public Form1()
         {
             InitializeComponent();
@@ -69,6 +71,74 @@ namespace Lab12
 
         private void toolTip1_Popup(object sender, PopupEventArgs e)
         {
+
+        }
+
+        private void textBox1_MouseMove(object sender, MouseEventArgs e)
+        {
+            toolTip1.ToolTipTitle = "X = " + this.g_x + ", Y = " + this.g_y;
+            toolTip1.SetToolTip(this.textBox1, " ");
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            this.g_x = this.textBox1.Text;
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            this.g_y = this.textBox2.Text;
+        }
+
+        private void textBox2_MouseMove(object sender, MouseEventArgs e)
+        {
+            toolTip1.ToolTipTitle = "X = " + this.g_x + ", Y = " + this.g_y;
+            toolTip1.SetToolTip(this.textBox1, " ");
+        }
+
+        private void AddText(FileStream fs, string value)
+        {
+            byte[] info = new UTF8Encoding(true).GetBytes(value);
+            fs.Write(info, 0, info.Length);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string in_file = "in.txt";
+            string out_file = "out.txt";
+
+            // write to file
+            using (FileStream fs = File.Create(out_file))
+            {
+                AddText(fs, "my name is alexey");
+                AddText(fs, "\n hola todos \n");
+                AddText(fs, "\n me enctanto estudiar esta idioma \n");
+                AddText(fs, "\n y hasta luego \n");
+            }
+
+            // read from file
+            using (FileStream fs = File.OpenRead(out_file))
+            {
+                byte[] b = new byte[1024];
+                UTF8Encoding temp = new UTF8Encoding(true);
+                using (FileStream fs_write = File.Create(in_file))
+                {
+                    while (fs.Read(b, 0, b.Length) > 0)
+                    {
+                        // every 1024 bytes go here
+                        // get the words
+                        string[] words = temp.GetString(b).Split(' ');
+                        char[] word;
+                        for (int i = 0; i < words.Length; i++)
+                        {
+                            word = words[i].ToCharArray();
+                            word[0] = char.ToUpper(word[0]);
+                            words[i] = new string(word);
+                            AddText(fs_write, words[i] + " ");
+                        }
+                    }
+                }
+            }
 
         }
     }
