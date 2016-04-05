@@ -7,3 +7,11 @@ C:\Users\USER\AppData\Local\Temporary Projects\Lab13_Ind\obj\x86\Debug\GenerateR
 C:\Users\USER\AppData\Local\Temporary Projects\Lab13_Ind\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\USER\AppData\Local\Temporary Projects\Lab13_Ind\obj\x86\Debug\Lab13_Ind.exe
 C:\Users\USER\AppData\Local\Temporary Projects\Lab13_Ind\obj\x86\Debug\Lab13_Ind.pdb
+D:\Job\BGU\c_sharp_labs\Lab13_Ind\Lab13_Ind\obj\x86\Debug\Lab13_Ind.exe
+D:\Job\BGU\c_sharp_labs\Lab13_Ind\Lab13_Ind\obj\x86\Debug\Lab13_Ind.pdb
+D:\Job\BGU\c_sharp_labs\Lab13_Ind\Lab13_Ind\bin\Debug\Lab13_Ind.exe
+D:\Job\BGU\c_sharp_labs\Lab13_Ind\Lab13_Ind\bin\Debug\Lab13_Ind.pdb
+D:\Job\BGU\c_sharp_labs\Lab13_Ind\Lab13_Ind\obj\x86\Debug\Lab13_Ind.csprojResolveAssemblyReference.cache
+D:\Job\BGU\c_sharp_labs\Lab13_Ind\Lab13_Ind\obj\x86\Debug\Lab13_Ind.Form1.resources
+D:\Job\BGU\c_sharp_labs\Lab13_Ind\Lab13_Ind\obj\x86\Debug\Lab13_Ind.Properties.Resources.resources
+D:\Job\BGU\c_sharp_labs\Lab13_Ind\Lab13_Ind\obj\x86\Debug\Lab13_Ind.csproj.GenerateResource.Cache
